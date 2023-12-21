@@ -39,5 +39,5 @@ If you'd like to experience the user side of the Recipe App, you can check out o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/naimabd/recipes.git
+   git clone https://github.com/naimabd/recipes-app.git
    cd recipe-app
